@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "686509811380",
+    "project_id": "fir-toturial-d98c9",
+    "storage_bucket": "fir-toturial-d98c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686509811380:android:0559536e0cd01f210199e1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_toturial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686509811380-uul3nj5fneg2r79tsfdec2863uneed57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3X3pPb7t3A41QrUqdtoBr1-f1oaxIiF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686509811380-uul3nj5fneg2r79tsfdec2863uneed57.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686509811380-8fqkk0f4vk1r7pfvb2ntev0ve2ms10vh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseToturial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
